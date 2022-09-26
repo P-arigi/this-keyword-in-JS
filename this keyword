@@ -1,0 +1,6 @@
+What is the meaning of this keyword?
+"this" is a just keyword in javascript which refers to the some object.
+suppose we open a console page in chrome and type this, it will refers to window.
+
+The four ways to figure out the keyword this:
+The terms default binding, implicit binding, explicit binding, and new binding.
